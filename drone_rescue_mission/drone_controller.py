@@ -10,7 +10,7 @@ class DroneController:
             self.master.target_system,
             self.master.target_component,
             mavutil.mavlink.MAV_DATA_STREAM_POSITION,
-            4,
+            1,
             1,
         )
 

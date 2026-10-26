@@ -7,7 +7,7 @@ if __name__ == "__main__":
     connection_string = "tcp:127.0.0.1:5763"
 
     target_lat = -35.364500
-    target_lon = 149.166500
+    target_lon = 149.167000
 
     search_grid = [
         (-35.364000, 149.163000),
